@@ -5,7 +5,7 @@
 ### Skills 🛠️
 • **Languages:** Python, SQL<br>
 • **Data Sci and Analysis:** Power BI, Python - scikit-learn, pingouin, scipy, seaborn, matplotlib, pandas, Statistical Testing, Structural Equation Modelling <br>
-• **Product Ownership:** Agile workflows (JIRA, Confluence, Adobe, Miro), Design Thinking, UX Research (primary and secondary), UI Design (Figma), Requirements gathering<br>
+• **Product Ownership:** Agile workflows (JIRA, Confluence, Adobe, Miro), Design Thinking, UX Research, UI Design (Figma), Requirements gathering<br>
 • **Consulting:** Stakeholder Management, Market Research, Storytelling, RFP and bid development, Client Relations<br>
 
 ### Professional Summary 👩🏻‍💻
