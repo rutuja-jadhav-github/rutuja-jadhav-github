@@ -9,7 +9,7 @@
 • **Consulting:** Stakeholder Management, Market Research, Storytelling, RFP and bid development, Client Relations<br>
 
 ### Professional Summary 👩🏻‍💻
-I am a Data Science Specialist at Accenture London with over 5 years of experience in Data Analytics and Product Ownership. At work, I juggle my time betweeen Data Science Assignments, Product Owner responsibilties, and guiding new Associates on their projects and training. I help clients (predominantly banking clients) in strategizing crucial product and business decisions by providing data-led insights. <br><br>I am proficient in managing end-to-end research and modeling pipelines from designing and facilitating primary and secondary research, data cleaning, relationship modeling, data exploration, driving feature selection workshops, significance testing, statistical testing, training models, and reporting. 
+I am a Data Science Specialist at Accenture London with over 5 years of expertise in Data Analytics and Product Ownership. At work, I juggle my time between Data Science Assignments, Product Owner responsibilties, and guiding new Associates on their projects and training. I help clients (predominantly in banking) in strategising crucial product and business decisions by providing data-led insights. <br><br>I am proficient in managing end-to-end research and modelling pipelines from designing and facilitating primary and secondary research, to data cleaning, relationship modelling, data exploration, driving feature selection workshops, statistical testing, model training, and reporting. 
 
 <br>MY CV lists some of the more detailed tasks and accomplishments at work. The Projects and Publications sections should give you a more practical insight into my day-to-day.<br>
 
